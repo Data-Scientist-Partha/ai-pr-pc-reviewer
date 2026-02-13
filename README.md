@@ -1,1 +1,1 @@
-# -ai-pr-pc-reviewer-
+# ai-pr-pc-reviewer
